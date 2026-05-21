@@ -1,3 +1,0 @@
-mkdir images
-move *.png images\git add .
-git commit -m "整理：将所有png文件统一移入images文件夹"
